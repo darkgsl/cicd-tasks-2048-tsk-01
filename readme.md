@@ -5,9 +5,7 @@ code -> container
 ## Goal
 
 ## Steps
-
+1. set project
+2. config runner
 
 ## Result
-не стоит выносить все в env/
-только если меняем часто или разные окружения
-Здесь просто тестирую
