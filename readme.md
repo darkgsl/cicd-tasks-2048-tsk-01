@@ -2,6 +2,11 @@
 pipeline
 code -> container
 
+добавить ратефакты
+логи
+контенер между стадиями
+
+
 ## Goal
 
 ## Steps
